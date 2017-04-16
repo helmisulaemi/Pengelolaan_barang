@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0;
+	font-family:san "MS Serif", "New York", serif;
+}
+.utama{
+	width:50%;
+	margin:0 auto;
+	border:thin solid #CCC;
+	padding:10px;
+}
+.table{
+	border-collapse:collapse;
+}
+.table tr td{
+	padding:5px;
+}
+.beri-warna{
+	background:#52B3D9;
+	color:white;
+}
+.print{
+	color:#16809f;
+	text-decoration:none;
+}
+

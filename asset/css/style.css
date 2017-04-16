@@ -1,0 +1,157 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:url(../img/back01.png);
+	font-family: sans-serif;
+	padding:0;
+	margin:0;	
+}
+.wrap{
+	width: 26%;
+	background:white;
+	margin: 0 auto;
+	border:thin solid #81CFE0;
+	padding: 20px;
+}
+.form{
+	width:94.5%;
+	border:thin solid #81CFE0;
+	height:15px;
+	padding:10px;
+}
+.form-select{
+	border:thin solid #81CFE0;
+	padding:10px;
+	width:94.5%;
+}
+.btn{
+	width:100.5%;
+	border:none;
+	background:#81CFE0;
+	color:white;
+	padding:10px;
+}
+
+.btn:hover {	
+	background:#52B3D9;
+	cursor:pointer;
+}
+.btnn{
+	width:25%;
+	border-radius: 4px;
+	float:left;
+	text-align: center;
+	margin-right: 10px;
+	border:none;
+	color:white;
+	background:#81CFE0;
+	padding:10px;
+}
+.btnn:hover {	
+	background:#52B3D9;
+	cursor:pointer;
+}
+.judul{
+	color:#81CFE0;
+}
+
+nav{
+	width:99.2%;
+	height:50px;
+	padding:5px;
+	background-color: #f8f8f8;
+  	border-color: #e7e7e7;
+}
+.dropdown{
+	list-style: none;
+}
+.dropdown li{
+	float:left;
+	padding-left:10px;
+}
+.dropdown li a{
+	text-decoration: none;
+	color:black;
+}
+.right{
+	float:right;
+	margin-right:150px;
+}
+.brand{
+  padding: 15px 15px;
+  font-size: 18px;
+  color:#CCC;
+  height: 50px;
+}
+.pesan{
+	width:90%;
+	padding:1px;
+	background:#5bc0de;
+	color:white;
+	border-radius: 4px;
+}
+.btn-menu{
+	width:120px;
+	padding:10px;
+	margin-right: 5px;
+	margin-bottom:5px;
+	float:left;
+	font-size:12px;
+	text-align: center;
+	border-radius: 4px;
+	background:#5bc0de;
+	color:white;
+	text-decoration:none;
+}
+.btn-menu-aktif{
+	width:120px;
+	padding:10px;
+	margin-right: 5px;
+	margin-bottom:5px;
+	float:left;
+	font-size:12px;
+	text-align: center;
+	border-radius: 4px;
+	background:#1f83a0;
+	color:white;
+	text-decoration:none;
+}
+.kotak-atas{
+	width:90%;
+	height:35px;
+	padding:5px;
+	margin:0 auto;
+	margin-bottom: 10px;
+	border-radius: 4px;
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+	background:white;
+}
+.kotak-bawah{
+	width:88%;
+	margin:0 auto;
+	border-radius: 4px;
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+	background:white;
+	padding:20px;
+}
+.tampilkan{
+	color:#16809f;
+}
+.table{
+	border-collapse:collapse;
+}
+.beri-warna{
+	background:#52B3D9;
+	color:white;
+}
+.table tr td{
+	padding:5px;
+	border:thin solid #5bc0de;
+}
+.kecil{
+	font-size:14px;
+	text-decoration:none;
+}
+.pendek{
+	width:20%;
+}
